@@ -1,4 +1,8 @@
 # google-play-api
+## Deploy to Heroku
+
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy)
+
 
 Turns [google-play-scraper](https://github.com/facundoolano/google-play-scraper/) into a RESTful API.
 
